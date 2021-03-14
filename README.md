@@ -13,6 +13,11 @@ Put your homework result inside and commit, push to publish it so that we check 
 ![](C:\Users\15480\AppData\Roaming\Typora\typora-user-images\image-20210314123554564.png)
 
 2.Make a new branch and name it with your name
+=======
+2.Make the branch
+
+1. Build a new branch and name it with your name.
+2. Publish it to the remote repository.
 
 
 
