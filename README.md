@@ -1,6 +1,12 @@
 # 2021SJVRProgrammerCourse-HW
 
+### 0.Please fill in your name and email below:
+
+- name:
+- email:
+
 ### 1.About this repository.
+
 - If you see this README, it means that you have successfully get the HW2 assignment.
 
 - This repoitory of yours is used to store your HW2 of our class.
