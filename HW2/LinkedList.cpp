@@ -16,6 +16,8 @@ struct LinkList {
     void remove(int v);
     size_t size() const;
     bool empty() const { return not size(); }
+
+    
 };
 
 
