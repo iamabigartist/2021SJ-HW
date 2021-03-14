@@ -6,7 +6,7 @@ then name each one with the problem's name, like this :
 
  **22.Generate Parentheses.jpg** :
 
-<img src="C:\Users\15480\AppData\Roaming\Typora\typora-user-images\image-20210314122816115.png" alt="image-20210314122816115" style="zoom: 50%;" />
+![]()
 
 
 
