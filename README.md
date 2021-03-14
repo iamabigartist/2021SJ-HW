@@ -21,7 +21,9 @@ Put your homework result inside and commit, push to publish it so that we check 
 
 Please commit and push the changes to **your own branch** but not **the main branch**.
 
+Please don't do like this:
 
+![](https://github.com/iamabigartist/2021SJ-HW/blob/main/images/MergeToMain.png)
 
 
 
