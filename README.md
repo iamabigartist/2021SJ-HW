@@ -10,12 +10,16 @@ Put your homework result inside and commit, push to publish it so that we check 
 
 1.Clone the repository to your local computer:
 
-![](C:\Users\15480\AppData\Roaming\Typora\typora-user-images\image-20210314123554564.png)
 
-2.Make the branch
+
+2.Make the branch **(You are recommand to use [Github Desktop](https://desktop.github.com/) if you feel not familiar with the command console)**
 
 1. Build a new branch and name it with your name.
 2. Publish it to the remote repository.
+
+### 3.When you finish your homework:
+
+Please commit and push the changes to **your own branch** but not **the main branch**.
 
 
 
