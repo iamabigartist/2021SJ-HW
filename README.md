@@ -10,7 +10,7 @@ Put your homework result inside and commit, push to publish it so that we check 
 
 1.Clone the repository to your local computer:
 
-
+![](https://github.com/iamabigartist/2021SJ-HW/blob/main/images/Clone.png)
 
 2.Make the branch **(You are recommand to use [Github Desktop](https://desktop.github.com/) if you feel not familiar with the command console)**
 
