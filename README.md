@@ -7,9 +7,9 @@
 
 ### 1.About this repository.
 
-- If you see this README, it means that you have successfully get the HW2 assignment.
+- If you see this README, it means that you have successfully get the HWx assignment.
 
-- This repoitory of yours is used to store your HW2 of our class.
+- This repoitory of yours is used to store your HWx of our class.
 
 - Put your homework result inside and commit, push to your own repository to publish it so that we check your homework.
 
